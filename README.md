@@ -1,2 +1,2 @@
 ## [Cardify!](https://cardify-dynamic-themes.netlify.app/)
-Self card with dynamic color themes 
+Self card with dynamic color themes using JS
